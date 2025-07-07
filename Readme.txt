@@ -51,16 +51,16 @@ Formulario funcional para enviar mensajes y lista de medios de contacto directo.
 ##  Capturas de Pantalla
 
 ### 1. Página principal (Inicio)
-![Inicio](assets/capturas/inicio.png)
+![Inicio](assets/inicio.png)
 
 ### 2. Sección "Sobre mí"
-![Sobre mí](assets/capturas/sobre-mi.png)
+![Sobre mí](assets/sobre-mi.png)
 
 ### 3. Currículum (Resumen)
-![Currículum](assets/capturas/resumen.png)
+![Currículum](assets/resumen.png)
 
 ### 4. Servicios
-![Servicios](assets/capturas/servicios.png)
+![Servicios](assets/servicios.png)
 
 
 
