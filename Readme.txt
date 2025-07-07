@@ -62,8 +62,7 @@ Formulario funcional para enviar mensajes y lista de medios de contacto directo.
 ### 4. Servicios
 ![Servicios](assets/capturas/servicios.png)
 
-### 5. Vista Responsiva (Móvil)
-![Responsivo](assets/capturas/responsivo.png)
+
 
 
 ## 🛠️ Tecnologías Utilizadas
@@ -80,5 +79,12 @@ Formulario funcional para enviar mensajes y lista de medios de contacto directo.
 ##  Autor
 
 **Fátima Martínez**  
+
+## Demostración en Línea - GitHub Pages
+
+Puedes probar el funcionamiento de la librería directamente aquí:
+
+[Ver demostración en línea](https://fatimamartinezlpz.github.io/portafoliio/)
+
 
 
