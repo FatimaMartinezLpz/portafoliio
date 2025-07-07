@@ -48,20 +48,18 @@ Formulario funcional para enviar mensajes y lista de medios de contacto directo.
 
 ---
 
-##  Capturas de Pantalla
-
 ### 1. Página principal (Inicio)
-
-![Inicio](./imagenes/login.png)
+![Inicio](imagenes/inicio.png)
 
 ### 2. Sección "Sobre mí"
-![Sobre mí](assets/sobre-mi.png)
+![Sobre mí](imagenes/sobre-mi.png)
 
 ### 3. Currículum (Resumen)
-![Currículum](assets/resumen.png)
+![Currículum](imagenes/resumen.png)
 
 ### 4. Servicios
-![Servicios](assets/servicios.png)
+![Servicios](imagenes/servicios.png)
+
 
 
 
