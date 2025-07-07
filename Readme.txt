@@ -60,10 +60,6 @@ Formulario funcional para enviar mensajes y lista de medios de contacto directo.
 ### 4. Servicios
 ![Servicios](imagenes/servicios.png)
 
-
-
-
-
 ## 🛠️ Tecnologías Utilizadas
 
 - HTML5
